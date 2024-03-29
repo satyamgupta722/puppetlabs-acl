@@ -1,4 +1,3 @@
-#testing with jenkins poll scm again
 source ENV['GEM_SOURCE'] || 'https://rubygems.org'
 
 def location_for(place_or_version, fake_version = nil)
